@@ -1,5 +1,7 @@
 ## Hello There! 👋
 
+![6555 (1)](https://github.com/user-attachments/assets/24b1b92b-19cf-471e-8f20-353e0b100c7e)
+
 I'm Abdurrahman Ali — a passionate tech enthusiast who loves creating mobile products from the ground up. My journey in tech began with a focus on UI/UX design, but I've since expanded my skillset into mobile app development, especially on Android using Kotlin and Flutter.
 
 ### 🔭 Current Focus
